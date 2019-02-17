@@ -4,7 +4,7 @@ This is a Microsoft Assembly template for Visual Studio 2017
 # How to install the template
   First, download the github repository to your computer. The only file you will need is the MASM.zip file.
   Second, move the MASM.zip folder to this location on your computer (assuming you have left default all installation parameters for Visual Studio 2017) : 
-    C:\Users\'your user goes here'\Documents\"Visual Studio 2017"\"My Exported Templates"
+    C:\\Users\\'your user goes here'\\Documents\\"Visual Studio 2017"\\"My Exported Templates"
 
   That's it! The installation is now completed
   
